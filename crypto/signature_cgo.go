@@ -23,8 +23,8 @@ import (
 	"crypto/elliptic"
 	"fmt"
 
-	"github.com/yottachain/YTCrypto/common/math"
-	"github.com/yottachain/YTCrypto/crypto/secp256k1"
+	"github.com/mrwangjinjin/YTACrypt/common/math"
+	"github.com/mrwangjinjin/YTACrypt/crypto/secp256k1"
 )
 
 // Ecrecover returns the uncompressed public key that created the given signature.

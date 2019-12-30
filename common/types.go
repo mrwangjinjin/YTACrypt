@@ -26,7 +26,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/yottachain/YTCrypto/common/hexutil"
+	"github.com/mrwangjinjin/YTACrypt/common/hexutil"
 	"golang.org/x/crypto/sha3"
 )
 

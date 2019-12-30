@@ -40,7 +40,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/yottachain/YTCrypto/crypto"
+	"github.com/mrwangjinjin/YTACrypt/crypto"
 )
 
 var dumpEnc bool

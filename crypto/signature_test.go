@@ -22,9 +22,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/yottachain/YTCrypto/common"
-	"github.com/yottachain/YTCrypto/common/hexutil"
-	"github.com/yottachain/YTCrypto/common/math"
+	"github.com/mrwangjinjin/YTACrypt/common"
+	"github.com/mrwangjinjin/YTACrypt/common/hexutil"
+	"github.com/mrwangjinjin/YTACrypt/common/math"
 )
 
 var (

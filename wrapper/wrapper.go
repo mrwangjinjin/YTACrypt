@@ -30,7 +30,7 @@ import "C"
 import (
 	"unsafe"
 
-	ytcrypto "github.com/yottachain/YTCrypto"
+	ytcrypto "github.com/mrwangjinjin/YTACrypt"
 )
 
 //export CreateKey

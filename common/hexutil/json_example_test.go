@@ -20,7 +20,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/yottachain/YTCrypto/common/hexutil"
+	"github.com/mrwangjinjin/YTACrypt/common/hexutil"
 )
 
 type MyType [5]byte

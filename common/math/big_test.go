@@ -22,7 +22,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/yottachain/YTCrypto/common"
+	"github.com/mrwangjinjin/YTACrypt/common"
 )
 
 func TestHexOrDecimal256(t *testing.T) {

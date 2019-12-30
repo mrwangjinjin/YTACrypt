@@ -42,7 +42,7 @@ import (
 	"fmt"
 	"hash"
 
-	ethcrypto "github.com/yottachain/YTCrypto/crypto"
+	ethcrypto "github.com/mrwangjinjin/YTACrypt/crypto"
 )
 
 var (

@@ -11,9 +11,9 @@ import (
 	"golang.org/x/crypto/ripemd160"
 
 	"github.com/mr-tron/base58"
-	"github.com/yottachain/YTCrypto/crypto"
-	ecrypto "github.com/yottachain/YTCrypto/crypto"
-	"github.com/yottachain/YTCrypto/crypto/ecies"
+	"github.com/mrwangjinjin/YTACrypt/crypto"
+	ecrypto "github.com/mrwangjinjin/YTACrypt/crypto"
+	"github.com/mrwangjinjin/YTACrypt/crypto/ecies"
 )
 
 //CreateKey generate private key/public key pair

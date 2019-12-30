@@ -21,7 +21,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/yottachain/YTCrypto/common/hexutil"
+	"github.com/mrwangjinjin/YTACrypt/common/hexutil"
 )
 
 // Tests that data bitset encoding and decoding works and is bijective.
