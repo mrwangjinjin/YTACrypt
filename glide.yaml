@@ -1,4 +1,4 @@
-package: github.com/yottachain/YTCrypto
+package: github.com/mrwangjinjin/YTCrypto
 import:
 - package: github.com/btcsuite/btcd
   version: BTCD_0_12_0_BETA
