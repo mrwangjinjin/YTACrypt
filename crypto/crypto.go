@@ -28,9 +28,9 @@ import (
 	"math/big"
 	"os"
 
-	"github.com/yottachain/YTCrypto/common"
-	"github.com/yottachain/YTCrypto/common/math"
-	"github.com/yottachain/YTCrypto/rlp"
+	"github.com/yottachain/YTACrypt/common"
+	"github.com/yottachain/YTACrypt/common/math"
+	"github.com/yottachain/YTACrypt/rlp"
 	"golang.org/x/crypto/sha3"
 )
 
